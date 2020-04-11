@@ -1,0 +1,9 @@
+.section-defaul{
+    display: flex;
+    flex-direction: column;
+   
+  }
+  .F{
+    display: flex;
+    flex-direction: column;
+  }
